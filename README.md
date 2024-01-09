@@ -1,3 +1,3 @@
 # git_practice
 
-## This is Branch Main
+## This is Main Branch
